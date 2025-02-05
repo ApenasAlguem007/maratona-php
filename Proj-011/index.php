@@ -17,7 +17,7 @@
         $numero = 100;
 
 
-            if($numero % 2 == 0){
+            if($numero % 2 === 0){
                 echo "O número é PAR!";
 
             }else {

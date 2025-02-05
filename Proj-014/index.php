@@ -33,11 +33,13 @@
                 echo "Insira uma nota válida" . "<br></br>";
                 echo "Nota Mínima: 0.0" . "<br></br>";
                 echo "Nota Máxima: 10.0";
+            break;
 
         }
     
         
     ?>
+    
     
 </body>
 </html>

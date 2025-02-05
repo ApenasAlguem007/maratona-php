@@ -13,8 +13,10 @@
 
     <?php 
 
+
         $diaSemana = 1;
         
+
         switch ($diaSemana){
             case 1 :
                 echo "Domingo";
@@ -47,9 +49,11 @@
             default:
                 echo "Dia da Semana inexistente! <br></br>";
                 echo "Informe um valor válido!";
+            break;
 
         }
 
+        
     ?>
 
 

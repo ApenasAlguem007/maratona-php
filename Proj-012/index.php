@@ -19,7 +19,7 @@
 
 
         $quebraDeLinha = "<br></br>";
-        $hora = date("h:i");
+        $hora = date("H:i");
 
         $valorIngresso = 0;
 
@@ -55,7 +55,7 @@
             
             
         } else if ($hora > 22 &&
-                $hora < 0) {
+                $hora < 24) {
 
             $valorIngresso = 40.0;
 
