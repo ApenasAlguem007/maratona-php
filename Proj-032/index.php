@@ -29,7 +29,7 @@
    }
 
        // Exemplo de uso
-    $numero = 7;
+    $numero = 79;
        if (primo($numero)) {
          echo "$numero é um número primo.";
     } else {
